@@ -1,3 +1,11 @@
+# tested
+- nginx-flask-mysql
+- nginx-flask-mongo
+- wordpress-mysql
+
+---
+
+
 # Awesome Compose [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![logo](awesome-compose.jpg)
